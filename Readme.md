@@ -47,6 +47,7 @@ Generated Interview Question:
 {
     "question": "What is inheritance?"
 }
+
 Conclusion
 
 This project demonstrates the use of Python dictionaries, lists, random question generation, and JSON formatting to create a simple interview question generator. It is useful for interview preparation and can be extended by adding more domains and questions in the future.
