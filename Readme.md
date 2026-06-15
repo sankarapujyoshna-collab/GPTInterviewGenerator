@@ -51,7 +51,7 @@ python interview_generator.py
 4. Enter the domain name.
 5. The program generates a random interview question.
 
-## Sample Output
+## Output
 
 ```json
 {
